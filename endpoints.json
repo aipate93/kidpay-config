@@ -1,0 +1,14 @@
+{
+ "format": "kidpay-config/1",
+ "payload": "eyJzY2hlbWEiOjEsImNoYW5uZWwiOiJwcm9kIiwic2VyaWFsIjoxLCJpc3N1ZWRBdCI6IjIwMjYtMTEtMjZUMTI6NTY6NDFaIiwiZW5kcG9pbnRzIjpbeyJhcGkiOiJodHRwczovL2tpZHBheS5tZC9hcGkiLCJoZWFsdGgiOiJodHRwczovL2tpZHBheS5tZC9oZWFsdGgifV0sIndlYiI6Imh0dHBzOi8va2lkcGF5Lm1kIiwiaW5jbHVkZUJ1aWx0SW4iOnRydWUsInNvdXJjZXMiOltdLCJyZXZva2VkS2V5cyI6W10sIm5vdGUiOiJjb25maWd1cmF0aWEgaW5pdGlhbGE6IGFkcmVzYSBhY3R1YWxhIn0",
+ "signatures": [
+  {
+   "kid": "9d81b22127dbaf69",
+   "sig": "j0z_b0Xa1GXHiSPe0WuUAQv-g_7NdTA0Rr754itnsHIMO3VnukKqfrEaejy1jKMXIEraB2dJY0erum5P3fQhBA"
+  },
+  {
+   "kid": "94964b229ff1c495",
+   "sig": "ms6evwY5R_fPbo2O0uQBAjbxTNoms4nYkQedzJpUpR5BeRdmgZIM07V5yQOB-uxx5m5TF0zJNQGN5Rx3mBGOAA"
+  }
+ ]
+}
